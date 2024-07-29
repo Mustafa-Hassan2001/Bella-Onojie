@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/7ff74607-f29f-4cde-a375-6887afe02c04)<div align="center">
-
-  <h2 align="center">Bella Onojie - Restaurant Website</h2>
+<div align="center">
+<h2 align="center">Bella Onojie - Restaurant Website</h2>
 
   Bella Onojie is a fully responsive restaurant website built using HTML, CSS, BootStrap, and JavaScript. You can place orders and keep track of them.
 
